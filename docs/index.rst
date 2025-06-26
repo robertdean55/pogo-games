@@ -11,7 +11,7 @@ Logging into your favorite game site should be easy, right? But sometimes, even 
 
 Don’t worry—you’re not alone, and it’s usually a small fix away! In this guide, we’ll walk you through simple, stress-free ways to fix common **Pogo Login Account** issues so you can get back to having fun. 🎉
 
-.. image:: start.png
+.. image:: login-now.gif
    :alt: My Project Logo
    :width: 400px
    :align: center
